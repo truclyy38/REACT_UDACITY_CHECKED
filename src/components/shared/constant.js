@@ -1,0 +1,5 @@
+export const LOGGED_IN_USER = "LOGGED_IN_USER";
+export const LOGOUT_USER = "LOGOUT_USER";
+export const GET_USERS = "GET_USERS";
+export const ADD_ANSWER_USER = "ADD_ANSWER_USER";
+export const ADD_QUESTION_USER = "ADD_QUESTION_USER";
